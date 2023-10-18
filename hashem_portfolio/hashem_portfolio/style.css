@@ -1,0 +1,57 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+    background-color: #F6F1F1;
+    
+}
+h3{
+    margin-bottom: 30px;
+    font-weight: 600;
+
+}
+
+.text{
+    line-height: 28px;
+}
+.portfolio-div{
+    position: relative;
+    margin-top: 0px;
+    
+}
+.myself{
+    margin: 50px;
+}
+.education{
+    margin: 50px;
+}
+ .skills{
+    margin: 50px;
+    
+   text-align: center;
+
+} 
+.skills-text{
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-align: right;
+}
+.stars{
+    text-align: left;
+} 
+.question{
+    text-align: center;
+    width: 600px;
+    margin: auto;
+}
+.contact-me{
+    margin: 50px;
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+a:hover{
+    color: black;
+}
